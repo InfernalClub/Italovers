@@ -6,8 +6,23 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/3D.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: 5c71d3da2c9672a4f86169b31a82ebc2
+  - enabled: 1
+    path: Assets/Scenes/SelectMenu.unity
+    guid: 663f555ba9ee7b84584732ea0c0bb95c
+  - enabled: 1
+    path: Assets/Scenes/Music.unity
+    guid: 8cac9e4d6f4b8a2448d43d752c0c23e0
+  - enabled: 1
+    path: Assets/Scenes/Maid.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Joker.unity
+    guid: 81afe5fa1d25aec44bd42127e6587b47
+  - enabled: 1
+    path: Assets/Scenes/Drunk.unity
+    guid: 4987887479624a1459843f11dc385190
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 8b5b9350db8e8b14b98598b5cad57489, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: cf46bf7f0e3d432428ab2393c3a127f5, type: 2}
